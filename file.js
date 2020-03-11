@@ -10,5 +10,4 @@ function appearing() {
 function disappearing() {
   document.getElementById("appear").style.display="none";}
 function background() {
-  document.body.style.background = "yellow";
-}
+  document.body.style.background = "yellow";}
